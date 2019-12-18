@@ -1,4 +1,10 @@
+素材來源
+https://janetcreativedesign.github.io/gameui/index.html
 
+https://drive.google.com/open?id=1XlmGAZQQU8EVaSEqWIhNPVAIm3rxTzOn
+
+網站連結
+#https://aad61404.github.io/Hyperbolic_TIME_DNF/week5-90sgame/90s_game.html
 
 #由於時間跟框架熟練問題，目前 缺少的功能
 

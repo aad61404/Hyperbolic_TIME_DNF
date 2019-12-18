@@ -1,6 +1,8 @@
-#這禮拜有些偷懶了
-#程式碼其醜無比
 
-#目前還在切版中 待施工...
+素材來源
+https://drive.google.com/drive/folders/1rMnNJqFSYYzfu_gSi5G41XvwYYOhIVvC
 
-這幾天會再補上完整程式碼
+https://xd.adobe.com/spec/633f3254-8562-417e-6846-90146ef7e1bc-150e/?fbclid=IwAR1JaRcUF3_M2Y71h8_vTZ1dBOI2RDhTPfnrjgDE-5o_PKfxo81fZZGVHTk
+
+網站連結
+https://aad61404.github.io/Hyperbolic_TIME_DNF/week6-hotel-reservation/docs/index.html#/rooms

@@ -1,29 +1,7 @@
 # greenpay1
 
-## Project setup
-```
-npm install
-```
+素材來源
+https://xd.adobe.com/spec/0c8fbc54-740d-4e21-4e5e-b1b66d286a83-7abe/grid/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+網站連結
+https://aad61404.github.io/Hyperbolic_TIME_DNF/week4-greenpay/docs/index.html#/
