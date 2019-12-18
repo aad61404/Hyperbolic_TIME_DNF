@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225465"],{e466:function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v("\n    this is Chatlist\n")])},i=[],a={name:"chatlist"},c=a,l=e("2877"),u=Object(l["a"])(c,s,i,!1,null,"b369b998",null);t["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d225465.eda054fa.js.map
